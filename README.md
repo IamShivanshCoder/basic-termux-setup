@@ -1,5 +1,5 @@
 # basic-termux-setup
-A basic termux file that configured fastest repo to download and also configures nerdfont.
+A basic termux file that configures fastest repo to download and also configures nerdfont as well as python with opencv2
 
 ## Installation 
 
