@@ -31,3 +31,7 @@ By default, JetBrainsMono is installed , Press 1 > 12 in nerd font installer
 
 
 #### 4. OpenCV2 Usage (Optional)
+
+termux-x11 :1 -xstartup "fluxbox"&
+
+DISPLAY=:1 python name.py
