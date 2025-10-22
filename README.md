@@ -5,12 +5,12 @@ A basic termux file that configured fastest repo to download and also configures
 
 #### 1. Update Packages and Setup Storage
 
---> Allow Storage
+> Allow Storage
 ```
 termux-setup-storage
 ```
 
---> Update the packages 
+> Update the packages 
 ```
 pkg update -y
 ```
