@@ -18,3 +18,6 @@ pkg update -y
 ```
 pkg install wget
 ```
+```
+
+```
