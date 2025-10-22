@@ -21,5 +21,5 @@ pkg install wget
 
 > Run the script 
 ```
-wget https://github.com/IamShivanshCoder/basic-termux-setup/blob/main/basic.sh && chmod +x basic.sh && ./basic.sh
+wget https://github.com/IamShivanshCoder/basic-termux-setup/raw/main/basic.sh && chmod +x basic.sh && ./basic.sh
 ```
