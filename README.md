@@ -23,3 +23,8 @@ pkg install wget
 ```
 wget https://github.com/IamShivanshCoder/basic-termux-setup/raw/main/basic.sh && chmod +x basic.sh && ./basic.sh
 ```
+
+
+#### 3. Nerd Font Installation 
+
+By default, JetBrainsMono is installed , Press 1 > 12 in nerd font installer
