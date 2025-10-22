@@ -14,7 +14,7 @@ termux-setup-storage
 ```
 pkg update -y
 ```
-### 2. Copy this repository
+#### 2. Copy this repository
 ```
 pkg install wget
 ```
