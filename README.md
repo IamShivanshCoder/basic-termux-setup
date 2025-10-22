@@ -28,3 +28,6 @@ wget https://github.com/IamShivanshCoder/basic-termux-setup/raw/main/basic.sh &&
 #### 3. Nerd Font Installation 
 
 By default, JetBrainsMono is installed , Press 1 > 12 in nerd font installer
+
+
+#### 4. OpenCV2 Usage (Optional)
