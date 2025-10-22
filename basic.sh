@@ -4,6 +4,6 @@
 # wget https://raw.githubusercontent.com/sabamdarif/termux-desktop/refs/heads/main/other/termux-fastest-repo && chmod +x termux-fastest-repo && ./termux-fastest-repo
 
 pkg install neovim git lazygit curl fzf tar nodejs-lts libllvm
-pkg install tree-sitter
+pkg install tree-sitter python
 
 git clone https://github.com/LazyVim/starter ~/.config/nvim
