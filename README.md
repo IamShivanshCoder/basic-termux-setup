@@ -12,7 +12,7 @@ termux-setup-storage
 
 > Update the packages 
 ```
-pkg update -y
+pkg update -y && pkg upgrade -y
 ```
 #### 2. Copy this repository
 ```
