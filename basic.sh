@@ -10,3 +10,10 @@ git clone https://github.com/LazyVim/starter ~/.config/nvim
 
 curl -fsSL https://raw.githubusercontent.com/arnavgr/termux-nf/main/install.sh | bash
 getnf -i JetBrainsMono
+
+pkg install x11-repo
+pkg install termux-x11 fluxbox pyqt5
+pkg install opencv-python
+
+apt-mark hold opencv
+apt-mark hold opencv-python
