@@ -5,3 +5,5 @@
 
 pkg install neovim git lazygit curl fzf tar nodejs-lts libllvm
 pkg install tree-sitter
+
+git clone https://github.com/LazyVim/starter ~/.config/nvim
