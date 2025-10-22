@@ -39,10 +39,19 @@ By default, JetBrainsMono is installed , Press 1 > 12 in nerd font installer
 2. Let it install and Go To Lazy Extras by pressing x and enable language:python by pressing x on circle in front of its name
 3. Exit Neovim
 4. Re-Enter Neovim and press : to enter command mode and type the following command
-```LSPInstall pyright ```
+```
+LSPInstall pyright
+```
+5.Exit NeoVim
 
 #### 4. OpenCV2 Usage (Optional)
 
+1.In a new terminal type to start display service 
+```
 termux-x11 :1 -xstartup "fluxbox"&
+```
 
+2.Run the file
+```
 DISPLAY=:1 python name.py
+```
